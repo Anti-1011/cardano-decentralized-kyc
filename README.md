@@ -1,15 +1,15 @@
-# 🧿 Decentralized KYC with Biometric NFT on Cardano
+# 🧿 Cardano Decentralized KYC with Biometric NFT
 
-A fully decentralized KYC (Know Your Customer) solution that leverages biometric eye scans (FaceIO) and Cardano blockchain to mint **soulbound KYC NFTs** — all without storing user data on centralized servers.
+A fully decentralized KYC solution that uses **biometric eye scans** (FaceIO) and **Cardano blockchain** to mint **soulbound NFTs** — providing privacy-focused identity verification without centralized storage.
 
 ---
 
 ## 🚀 Features
 
-- 🔗 Connect Cardano wallet (Nami)
-- 🧿 Real biometric scan via **FaceIO** (eye scan)
-- 🪙 Mint a **soulbound NFT** as KYC proof
-- ⚙️ Built with React + TailwindCSS + Lucid + Blockfrost
+- 🔗 Connect Cardano Wallet (Nami)
+- 🧿 Real Biometric Eye Scan via FaceIO
+- 🪙 Mint a **soulbound NFT** as KYC proof (non-transferable)
+- ⚙️ Built with React, TailwindCSS, Lucid, and Blockfrost API
 
 ---
 
@@ -17,5 +17,5 @@ A fully decentralized KYC (Know Your Customer) solution that leverages biometric
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Anti-1011/decentralized-kyc-cardano.git
-cd decentralized-kyc-cardano
+git clone https://github.com/Anti-1011/cardano-decentralized-kyc.git
+cd cardano-decentralized-kyc
